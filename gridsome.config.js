@@ -7,7 +7,7 @@
 module.exports = {
     siteName: 'Hello, hi 👋🏼',
     siteDescription:
-        'A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.',
+        "I'm Tina, a product-focused software developer based in Cape Town Ireland.",
 
     templates: {
         Post: '/:title',

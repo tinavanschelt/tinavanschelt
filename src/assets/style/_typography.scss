@@ -11,8 +11,12 @@ body {
 }
 
 p {
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin-bottom: 1.25em;
+}
+
+b {
+    font-weight: 600;
 }
 
 h1,
@@ -22,7 +26,7 @@ h4,
 h5 {
     transition: color 0.6s;
     color: var(--title-color);
-    margin: 2.75rem 0 1rem;
+    margin: 2rem 0 1rem;
     font-family: -apple-system, BlinkMacSystemFont, 'Manrope', sans-serif;
     font-weight: 600;
     line-height: 1.15;
@@ -68,17 +72,17 @@ em {
 }
 
 ul {
+    font-size: 0.9em;
     list-style-type: disc;
     margin-left: 1.25em;
-    margin-bottom: 1.25em;
     li {
         margin-bottom: 0.6em;
     }
 }
 ol {
+    font-size: 0.9em;
     list-style-type: decimal;
     margin-left: 1.25em;
-    margin-bottom: 1.25em;
     li {
         margin-bottom: 0.6em;
     }

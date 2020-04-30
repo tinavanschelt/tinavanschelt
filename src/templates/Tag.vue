@@ -4,7 +4,7 @@
             # {{ $page.tag.title }}
         </h1>
 
-        <div class="posts">
+        <div class="posts content">
             <PostCard
                 v-for="edge in $page.tag.belongsTo.edges"
                 :key="edge.node.id"

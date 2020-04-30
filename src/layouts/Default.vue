@@ -10,14 +10,14 @@
             </div>
         </header>
 
-        <main class="main">
+        <main class="main content">
             <slot />
         </main>
 
         <footer class="footer">
             <span class="footer__copyright"
-                >Copyright © {{ new Date().getFullYear() }}.
-            </span>
+                >Copyright © {{ new Date().getFullYear() }}. </span
+            ><br />
             <span class="footer__links"
                 >Powered by <a href="//gridsome.org"> Gridsome </a></span
             >
@@ -69,10 +69,7 @@ export default {
 }
 
 .footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: calc(var(--space) / 2);
+    padding: var(--space);
     text-align: center;
     font-size: 0.8em;
 

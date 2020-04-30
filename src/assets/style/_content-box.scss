@@ -1,13 +1,17 @@
 // Used to wrap content inside a nice box.
-.content-box {
+.content {
     max-width: var(--content-width);
     margin: 0 auto;
+}
+
+.content-box {
+    // max-width: 100%;
     transition: background-color 0.6s;
     padding: var(--space);
+    background-color: var(--bg-content-color);
+    border-radius: var(--radius);
 
     &:hover {
-        background-color: var(--bg-content-color);
-        border-radius: var(--radius);
         box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.02),
             1px 1px 15px 0 rgba(0, 0, 0, 0.03);
         transition: transform 0.3s, background-color 0.3s, box-shadow 0.6s;

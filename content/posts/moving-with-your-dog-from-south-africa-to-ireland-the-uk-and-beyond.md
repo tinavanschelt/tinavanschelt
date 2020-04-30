@@ -1,11 +1,11 @@
 ---
 title: Moving with your dog from South Africa to Ireland (the UK and beyond)
-date: 2019-01-07
+date: 2020-01-28
 published: true
-tags: []
+tags: ['test']
 series: false
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: ''
 ---
 
 It was just a regular Saturday. My husband "went to Builder’s Warehouse", a pretty standard outing for young home owners on a Saturday morning. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears.
@@ -22,7 +22,7 @@ Our two year contract is coming to an end soon (April 2020) and since my husband
 
 <i>Before I jump in, it's important to state that this is not my day job and that rules, regulations and politics (read Brexit) change regularly and differ dependent on your specific circumstances, so it's really important to do the research and verify everything stated below. We flew from Cape Town to Dublin and our dog was about 22kg at the time. Your route and the size of your dog will affect the cost of travel.</i>
 
-## First things first: visit your veterinarian
+#### First things first: visit your veterinarian
 
 Regardless of the destination or method of travel, your local veterinarian will always be your first stop. If your dog is coming from a high-risk rabies country, like South Africa, the waiting period after your first veterinarian visit is a minimum of three to four months if you want to avoid quarantine.
 
@@ -55,7 +55,7 @@ Regardless of the destination or method of travel, your local veterinarian will 
   </li>
 </ol>
 
-## Organising your dog's flight
+#### Organising your dog's flight
 
 Though you may now find yourself in somewhat of a waiting game, there’s no rest for the wicked!
 
@@ -97,7 +97,7 @@ To give you an indication of check-in vs cargo costs, last time I check, KLM has
 
 Flying Wilco as cargo was costly, but with the benefit of hindsight, I’m very glad we didn’t have another option and that we had assistance during the process. In addition to being less stressful, there are a number of benefits that come with working through an agency, keep reading.
 
-## Getting the right crate for your dog
+#### Getting the right crate for your dog
 
 If your dog is travelling cargo, it _has_ to travel in a wooden crate. If your dog is travelling in the hold it has to be in a IATA approved plastic crate. If, like us, you switch things up every couple of years, this is a little frustrating as our dog now has two impossibly large crates. One plastic (for fights within the EU) and one wooden (for international flights). The wooden crate will be provided through your travel agency, I recommend sticking with their standard crate. The requirements for the plastic crate differs depending on the airline, but they’ll most likely have a detailed spec of their requirements on their website.
 
@@ -105,21 +105,21 @@ Online you'll find plenty of guides on how to measure your dog. The golden rule 
 
 Both our crates cost ~€200 each. It goes without saying that this is dependent.
 
-## Finding a pet friendly home
+#### Finding a pet friendly home
 
 Generally, Europe (especially the mainland) is pretty pet friendly and we found that people are willing to negotiate when it comes to pets. You're definitely better off dealing with the landlord self, we found that agencies didn't even reply if you mentioned the word dog. We were incredibly lucky and ended up living in the first house we viewed. My husband did arrive a month before us as Wilco still had to wait out the three months after his blood was drawn. We used that time to tie up our ends in South Africa and get everything ready this side. If you're moving with a pet, that would be my recommendation.
 
-## The week before take off
+#### The week before take off
 
 Paperwork! An EU health certificate must be completed by your veterinary practitioner, between 5 and 1 days before travelling. In other words, at least 24 hours before travelling, but not longer than 120 hours before your flight. The certificate then needs to be signed by an official state veterinarian.
 
 In Cape Town the state veterinarian is located in Milnerton and only open between 9am and 12pm on weekdays. This is where an agency is very helpful. You will have a lot of things on your plate that last week before lift-off, the agency will collect the certificate from you and get it to and from the state vet in time.
 
-## Take off
+#### Take off
 
 The agency will collect your dog early. In our case my flight was late afternoon and Animal Travel Services collected Wilco at about 9:30 in the morning. The driver was an animal whisperer and it was a very reassuring experience. The agency will use the time to get your dog and his crate flight-ready and truthfully, I needed that last day to get my own admin in order. There are so many moving parts and little tasks that need to be taken care of, like phoning the bank.
 
-## The flight
+#### The flight
 
 Regardless of whether your dog travels check-in or cargo, in reality all animals travel in _the hold_. I’ve been told that they have the best seat in the house as the hold is one of the quietest parts of the plane and, for what it’s worth, the crew has access to it during flight. Wilco and I travelled on the same Swiss Air flight and I can highly recommend this. When I saw him disembarking at Zurich Airport, ears flapping, I knew we were going to be just fine.
 
@@ -127,7 +127,7 @@ If you have a layover in Europe, your pet is cleared at their first entry point.
 
 Matters like whether or not there is a veterinarian on duty during your layover hours is all taken care of by the agency.
 
-## Reunited at last
+#### Reunited at last
 
 If you’re travelling to Ireland, there’s only one point of entry for pets arriving by plane: Dublin Airport. You’ll collect your dog from World Freight Services next to the airport. There is a small import / handling fee of about ~€40. If possible, try and have some water and food on you upon collection. Wilco was hungry. He's a big fella, so they bought him out with a forklift. Ears flapping. There may have been tears.
 
@@ -137,7 +137,7 @@ We now often struggle with the concept of home, but have come to realise that ho
 
 ![Nobody Gets Left Behind Poster](./images/nobody_gets_left_behind.jpg)
 
-## Useful links
+#### Useful links
 
 <ul>
   <li>The <a href="https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/coming_to_live_in_ireland/bringing_pets_to_ireland.html" target="_blank">official documentation</a> on <i>Bringing pets to Ireland</i> (Every country will have a document or page like this available and if you can't find it online I've found the Departments of Agriculture are quick to respond)</li>

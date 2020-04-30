@@ -1,11 +1,11 @@
 <template>
   <Layout :show-logo="false">
     <!-- Author intro -->
-    <Author :show-title="true" :show-bio="true" />
+    <Author :show-title="true" />
 
     <!-- List posts -->
     <div class="posts content">
-      <div class="posts__title">latest</div>
+      <div class="posts__title">writing</div>
       <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node" />
     </div>
   </Layout>
@@ -43,7 +43,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: "Home"
+    title: "Posts"
   }
 };
 </script>
