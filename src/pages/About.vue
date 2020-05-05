@@ -5,7 +5,7 @@
 
     <!-- List posts -->
     <div class="posts content">
-      <div class="posts__title">about</div>
+      <PageTitle title="about" />
       <div class="post-card content-box">
         <p>Growing up, I loved art and I loved computers.</p>
 
@@ -263,11 +263,13 @@ query {
 
 <script>
 import Author from "~/components/Author.vue";
+import PageTitle from "~/components/PageTitle.vue";
 import PostCard from "~/components/PostCard.vue";
 
 export default {
   components: {
     Author,
+    PageTitle,
     PostCard
   },
   metaInfo: {
@@ -277,23 +279,16 @@ export default {
 </script>
 
 <style lang="scss">
-.post-title {
-  margin: 0 auto calc(var(--space) / 2);
-  max-width: var(--content-width);
-  padding: calc(var(--space) / 2) 0 calc(var(--space) / 2);
-  text-align: center;
-}
-
 .posts {
   &__title {
     font-size: 6rem;
     font-weight: 600;
     margin-bottom: -3.35rem;
-    opacity: 10%;
+    opacity: 0.1;
     padding: 0 2rem;
 
     &--year {
-      font-size: 4rem;
+      font-size: 3.5rem;
       margin-bottom: -2rem;
     }
   }

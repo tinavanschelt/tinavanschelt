@@ -5,7 +5,7 @@
 
     <!-- List posts -->
     <div class="posts content">
-      <div class="posts__title">writing</div>
+      <PageTitle title="writing" />
       <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node" />
     </div>
   </Layout>
@@ -35,11 +35,13 @@ query {
 
 <script>
 import Author from "~/components/Author.vue";
+import PageTitle from "~/components/PageTitle.vue";
 import PostCard from "~/components/PostCard.vue";
 
 export default {
   components: {
     Author,
+    PageTitle,
     PostCard
   },
   metaInfo: {
@@ -49,20 +51,4 @@ export default {
 </script>
 
 <style lang="scss">
-.post-title {
-  margin: 0 auto calc(var(--space) / 2);
-  max-width: var(--content-width);
-  padding: calc(var(--space) / 2) 0 calc(var(--space) / 2);
-  text-align: center;
-}
-
-.posts {
-  &__title {
-    font-size: 6rem;
-    font-weight: 600;
-    margin-bottom: -3.35rem;
-    opacity: 10%;
-    padding: 0 2rem;
-  }
-}
 </style>
