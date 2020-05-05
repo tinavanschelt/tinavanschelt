@@ -2,7 +2,7 @@
   <div class="post-meta">
     <span>Posted {{ post.date }}</span>
     <template v-if="post.timeToRead">
-      <span>
+      <span class="time-to-read">
         <strong>{{ post.timeToRead }} min read</strong>
       </span>
     </template>
@@ -21,5 +21,9 @@ export default {
   flex-direction: column;
   font-size: 0.8em;
   opacity: 0.8;
+
+  .time-to-read {
+    color: var(--link-color);
+  }
 }
 </style>
