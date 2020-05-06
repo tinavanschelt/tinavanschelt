@@ -2,7 +2,7 @@
 title: A learning culture is not a nice-to-have
 date: 2019-07-31
 published: true
-tags: ['test']
+tags: ['culture']
 series: false
 canonical_url: false
 description: ''

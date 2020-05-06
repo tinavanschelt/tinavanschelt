@@ -2,7 +2,7 @@
 title: A browser for productivity
 date: 2019-01-27
 published: true
-tags: ['test']
+tags: ['productivity']
 series: false
 canonical_url: false
 description: ''

@@ -2,7 +2,7 @@
 title: Moving with your dog from South Africa to Ireland (the UK and beyond)
 date: 2020-01-28
 published: true
-tags: ['test']
+tags: ['expatlife']
 series: false
 canonical_url: false
 description: ''
