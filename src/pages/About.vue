@@ -7,37 +7,18 @@
     <div class="posts content">
       <PageTitle title="about" />
       <div class="post-card content-box">
-        <p>Growing up, I loved art and I loved computers.</p>
+        <p>Throughout my career I’ve often found myself working at the intersection of multiple disciplines within the digital ecosystem, including software engineering, analytics, product management and user experience. Combined with a keen interest in human behaviour and business processes, this has enabled me to build a diverse skill set and a thorough understanding of the ecosystem as a whole.</p>
 
         <p>
-          I excelled at anything that allowed me to create or build
-          something. I decided to study Design and Art Direction at
-          The Red & Yellow Creative School of Business, but simply
-          could not shake the coding hobby and freelanced as a web
-          developer throughout my studies and early career.
-          Consequently, my skills have been built up through
-          relentless self-study and
+          I believe in
           <a
             href="https://github.com/tinavanschelt/lifelong-learning"
             target="_blank"
-          >continuous learning</a> with loads of
-          curiosity and an above average amount of grit.
+          >continuous learning</a>, embrace new challenges as growth opportunities and I always strive to surround myself with people who are smarter than me.
         </p>
 
-        <p>
-          I have a keen interest in human behaviour and always strive
-          to surround myself with people who are smarter than me.
-        </p>
-
-        <h5>Areas of focus</h5>
-
-        <ul>
-          <li>Javascript, React, React-Native</li>
-          <li>Sass, styled-components</li>
-          <li>Webpack, Gulp</li>
-          <li>Ruby on Rails, Elixir, Phoenix</li>
-        </ul>
-
+        <p>Outside of work, I enjoy exploring, running, functional training, spending time outdoors and hiking with our dog, Wilco. I completed my first marathon in 2019 and am an avid member of the Parkrun community.</p>
+        
         <h5>Timeline 👇🏼</h5>
         <p>
           For things I’m looking forward to and/or currently focused on visit
