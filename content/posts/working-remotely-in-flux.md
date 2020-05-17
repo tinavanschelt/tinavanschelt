@@ -18,7 +18,7 @@ Much like pandemics, the isolating nature of moving continents does not pair wel
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">People don&#39;t like to talk about this because no-one wants to sound like they&#39;re incapable of making friends outside work. The reality is I think a lot of millennials *do* predominantly make friends that way, and we&#39;re the age group most likely to suffer from serious loneliness.</p>&mdash; Rich Harris (@Rich_Harris) <a href="https://twitter.com/Rich_Harris/status/1260274287799402497?ref_src=twsrc%5Etfw">May 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### Mistakes were made.
+##### Mistakes were made.
 
 Arguably the biggest mistake I made early on was **not setting myself up for the long haul**. The two main factors here were probably a lack of confidence in my own abilities (that’s really a post in itself) and the fact that we were only planning on being in Ireland for two years. The two-bedroom house we are renting here is furnished and having just sold off or boxed up all of our stuff we didn’t want to accumulate _more_ _stuff_ on this side.
 
