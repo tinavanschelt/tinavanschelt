@@ -70,7 +70,7 @@ query Post ($id: ID!) {
     }
     description
     content
-    cover_image (width: 500, blur: 10)
+    cover_image
   }
 }
 </page-query>

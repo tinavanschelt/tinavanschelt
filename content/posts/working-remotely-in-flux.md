@@ -3,7 +3,7 @@ title: Working remotely when everything else is in flux
 date: 2020-05-15
 published: true
 tags: ['remote']
-cover_image: /assets/static/content/posts/images/remote-office.jpg
+cover_image: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/clipboard_1f4cb.png
 series: false
 canonical_url: false
 description: ''
