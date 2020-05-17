@@ -3,7 +3,7 @@ title: Working remotely when everything else is in flux
 date: 2020-05-15
 published: true
 tags: ['remote']
-cover_image: /images/remote-office.jpg
+cover_image: /assets/static/content/posts/images/remote-office.jpg
 series: false
 canonical_url: false
 description: ''
