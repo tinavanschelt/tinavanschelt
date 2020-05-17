@@ -78,6 +78,6 @@ The last mistake worth mentioning is relevant regardless of how or where you wor
 
 Focus on the areas where you add the most value and if you don’t know what that is, ask! Asking questions is a good thing. It shows you care and might just put you first in line for that new project or promotion.
 
-Mistakes were made. Lessons were learnt. That’s how we grow.
+Mistakes were made, lessons were learnt - that’s how we grow.
 
 When you know better, you do better.
