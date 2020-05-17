@@ -42,7 +42,14 @@ export default {
         {
           name: "description",
           content: this.$page.post.description
-        }
+        },
+        // twitter-card: https://cards-dev.twitter.com/validator
+        { name: "twitter:card", content: "summary_large_image" },
+        { name: "twitter:description", content: this.$page.post.description },
+        { name: "twitter:title", content: this.$page.post.title },
+        { name: "twitter:site", content: "@tinavanschelt" },
+        { name: "twitter:image", content: this.$page.post.cover_image },
+        { name: "twitter:creator", content: "@tinavanschelt" }
       ]
     };
   }
