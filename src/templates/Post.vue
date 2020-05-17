@@ -6,16 +6,14 @@
       <PostMeta :post="$page.post" />
     </div>
 
-    <div class="post content-box">
-      <div class="post__header">
-        <g-image alt="Cover image" v-if="$page.post.cover_image" :src="$page.post.cover_image" />
-      </div>
+    <div class="post__header">
+      <g-image alt="Cover image" v-if="$page.post.cover_image" :src="$page.post.cover_image" />
+    </div>
 
-      <div class="post__content" v-html="$page.post.content" />
+    <div class="post__content" v-html="$page.post.content" />
 
-      <div class="post__footer">
-        <PostTags :post="$page.post" />
-      </div>
+    <div class="post__footer">
+      <PostTags :post="$page.post" />
     </div>
 
     <div class="post-comments">
@@ -107,8 +105,8 @@ query Post ($id: ID!) {
     }
 
     img {
-      width: calc(100% + var(--space) * 2);
-      margin-left: calc(var(--space) * -1);
+      width: calc(100% + var(--space) * 4);
+      margin-left: calc(var(--space) * -2);
       display: block;
       max-width: none;
     }
@@ -125,5 +123,6 @@ query Post ($id: ID!) {
 
 .post-author {
   margin-top: calc(var(--space) / 2);
+  padding: var(--space) 0;
 }
 </style>

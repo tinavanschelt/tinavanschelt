@@ -5,7 +5,7 @@
 
     <!-- List posts -->
     <div class="posts content">
-      <PageTitle title="now" />
+      <PageTitle title="/now" />
       <div class="post-card content-box">
         <blockquote>
           <p>“You don’t get results by focusing on results. You get results by focusing on the actions that produce results.”</p>
@@ -131,6 +131,7 @@ export default {
     padding: 0 2rem;
 
     &--year {
+      color: var(--page-title-color);
       font-size: 3.5rem;
       margin-bottom: -2rem;
     }
