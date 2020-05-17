@@ -1,6 +1,6 @@
 <template>
   <g-link class="logo" to="/posts">
-    <span class="logo__text">&larr; 📋Writing</span>
+    <span class="logo__text">&larr; 📋 Writing</span>
   </g-link>
 </template>
 
