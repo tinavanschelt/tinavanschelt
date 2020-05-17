@@ -3,13 +3,13 @@ title: Working remotely when everything else is in flux
 date: 2020-05-15
 published: true
 tags: ['remote']
-cover_image: ./images/remote-office.jpg
+cover_image: /images/remote-office.jpg
 series: false
 canonical_url: false
 description: ''
 ---
 
-Everybody and their mother seems to be handing out WFH advice at the moment. I was reluctant to join the chorus (by now you already know that you have to mute your mic during a call), but after the umpteenth friend expressed _“I don’t know how you do it!”_ I do feel the need to highlight the fact that **_Remote work, and remote work whilst everything around you is new and uncertain, is not the same thing._**
+Everybody and their mother seems to be handing out WFH advice at the moment. I was reluctant to join the chorus (by now you already know that you have to mute your mic during a call), but after the umpteenth friend expressed _“I don’t know how you do it!”_ I do feel the need to highlight the fact that **_remote work, and remote work whilst everything around you is new and uncertain, is not the same thing._**
 
 I know this first hand. Two years ago my husband and I packed our bags (and our dog) and left a life we _loved_ to pursue a two year assignment in Limerick, Ireland. With the move, I quit my job and though I had some opportunities locally, I mostly pursued remote opportunities as I felt it gave me more growth opportunities and flexibility. (Turns out this was a good call as we’re now heading to Amsterdam for another two year assignment and not having to change jobs again is a big relief.)
 
