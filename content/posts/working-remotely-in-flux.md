@@ -3,6 +3,7 @@ title: Working remotely when everything else is in flux
 date: 2020-05-15
 published: true
 tags: ['remote']
+cover_image: ./images/remote-office.jpg
 series: false
 canonical_url: false
 description: ''
@@ -24,7 +25,7 @@ Arguably the biggest mistake I made early on was **not setting myself up for the
 
 Whilst interviewing, the company I ended up accepting an offer from, paid me for the time it took to complete my technical test. I used that money to buy myself a monitor and some plants for our house. We had a nice window-facing cabinet in the corner of our living room, I converted it into a desk and that was it. I was the only one at home during the day, so that was were I worked for the next 20 months. Mistake number two? You guessed it, **don’t work in the living room**.
 
-![](https://paper-attachments.dropbox.com/s_B64576E8DC746A4ECE65C038E15ACD20D2E9DF71F24DAFFAE888F5FDB95EC104_1588107748008_IMG_0320.jpg)
+![Remote Office](./images/remote-office.jpg)
 
 I realise that space is a massive privilege, but if you have _any_ way to separate your work space from your living space, capatalise on that. It’s the number one to-do on most “how-to remote” lists for a reason. I now work in our spare bedroom and when friends or family come to visit I just move my desk into our bedroom for the duration of their stay. The separation helps to determine and manage how much time I _actually_ spend in front of my computer.
 
