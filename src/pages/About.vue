@@ -262,10 +262,10 @@ export default {
 <style lang="scss">
 .posts {
   &__title {
+    color: var(--page-title-color);
     font-size: 6rem;
     font-weight: 600;
     margin-bottom: -3.35rem;
-    opacity: 0.1;
     padding: 0 2rem;
 
     &--year {

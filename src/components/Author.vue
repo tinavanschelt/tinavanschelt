@@ -11,7 +11,7 @@
       />
     </a>
 
-    <h1 v-if="showTitle" class="author__site-title">{{ $static.metadata.siteName }}</h1>
+    <h1 v-if="showTitle" class="author__site-title">Hello, hi 👋🏼</h1>
 
     <p>
       I'm Tina, a product-focused software developer based in
