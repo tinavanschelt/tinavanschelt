@@ -3,7 +3,7 @@ title: Limerick, yer wan’s going ter miss ye like
 date: 2020-05-26
 published: true
 tags: ['personal']
-cover_image: https://res.cloudinary.com/tinavanschelt/image/upload/v1589724427/writing/remote-office.jpg
+cover_image: https://res.cloudinary.com/tinavanschelt/image/upload/v1590165893/writing/peoples_park.jpg
 series: false
 canonical_url: false
 description: ''
@@ -19,7 +19,7 @@ Fast forward two years and I think it’s safe to say we’re smitten. This quir
 
 This weekend, after three months of COVID-inflicted self-isolation and under somewhat different, slightly more surreal circumstances than we had planned, we’ll be leaving Limerick for The Netherlands - with new friends and another home to miss.
 
-Saying goodbye has been bittersweet and we've been doing a fair amount of reflection on our daily dog walks. In the process, I’ve made a list of some of the things I’m going to miss (or remember fondly) about our time in the Treaty City.
+Saying goodbye has been bittersweet and we've been doing a fair amount of reflection on our daily dog walks. In the process, I’ve made a list of some of the things I’m going to miss (or remember fondly) about our time in Treaty City.
 
 ##### The Running Community
 
@@ -27,7 +27,7 @@ If there were only one thing I could put in my pocket and take with me, it would
 
 Kevin and I started doing Parkruns in South Africa, but it was only after moving to Limerick that we realised it doesn't matter where in the world you go, if there's a Parkrun - you'll have a running family waiting for you. Parkrun taught us that you can be fast at any age, Sanctuary Runners showed us what an incredible unifier running is and the Tuesday track sessions helped me push my boundaries in ways I hadn't done in years.
 
-Running took us all over the island and eventually all the way to Copenhagen, where we kicked 2020 off with a bunch of local parkrunners. With the encouragement of the local running community, Kevin and I ran a PB in every race we participated, I became a marathoner and (this still makes me laugh) a Parkrun first finisher. We delayed our move in order to do Connemarathon, but the pandemic had other plans - we'll be back though.
+Running took us all over the island and eventually all the way to Copenhagen, where we kicked 2020 off with a bunch of local parkrunners. With the encouragement of the local running community, Kevin and I ran a PB in every race we participated in, I became a marathoner and (this still makes me laugh) a Parkrun first finisher. We delayed our move in order to do Connemarathon, but the pandemic had other plans - we'll be back though.
 
 To all the runners, both human and furry! You know who you are. We're incredibly grateful for the miles we were able to log with you and the camaraderie and conversations along the way. We hope to welcome you to our new home run when all of this is over and will be waiting with that 👍🏼 kudos once our Saturday mornings return to normal.
 
@@ -59,9 +59,9 @@ Fair play to you, Noel. I’m so bleak I didn’t get to say goodbye, but I’ll
 
 ##### Daily Walks with Wilco
 
-Back in Observatory, we would visit the dog park with Wilco every day - something we really missed when we just arrived in Limerick. Though we never really replaced the social aspect of the dog park, we did discover an array of beautiful walks - all within stones throw.
+Back in Observatory, we would visit the dog park with Wilco every day - something we really missed when we just arrived in Limerick. Though we never really replaced the social aspect of the dog park, we did discover an array of beautiful walks - all within stones' throw.
 
-We loved walking The Three Bridges and along the riverbank to the University of Limerick, when Wilco needed extra stimulation, we would turn early and head back through Shannon Fields, tackle the Corbally Red Path and take the connecting trail or head round Kings Island. We were still discovering new paths and detours by chance during our our last month.
+We loved walking The Three Bridges and along the riverbank to the University of Limerick, when Wilco needed extra stimulation, we would turn early and head back through Shannon Fields, tackle the Corbally Red Path and take the connecting trail or head round Kings Island. We were still discovering new paths and detours by chance during our last month.
 
 Ireland is essentially one big farm and Wilco didn't waste any time before he started living his best farm life.
 
@@ -146,11 +146,11 @@ If you're ever lucky enough to find yourself here on a Saturday morning, be sure
 
 Shortly after Kevin arrived in Limerick, Rift, a speciality coffee shop and wine bar, opened their doors. It didn't take us long to get to know Dalton. Dalton's the kind of guy who will remember the wine you had six months ago and make a recommendation based on it, a stellar one at that. Watching Rift grow from strength to strength has been delightful and we look forward to coming back to give their new venture, Rift's Larder, a visit. Until then, we'll be contently sipping coffee from our Rift Tapio coffee cups.
 
-Not long after, Green Onion Café opened their doors 450m from our house. Providing a really nice atmosphere to work from on the days I felt like a change of scenery and serving, not just great coffee, but a really yummy wholewheat vegan date scone, caramalised banana and cashew butter.
+Not long after, Green Onion Café opened their doors 450m from our house. Providing a really nice atmosphere to work from on the days I felt like a change of scenery and serving, not just great coffee, but a really yummy whole wheat vegan date scone, caramalised banana and cashew butter.
 
-About a year into our stay, DUO appeared on the scene. It's a lovely little retail and coffee shop with a focus on local and environmentally products. Well worth the visit.
+About a year into our stay, DUO appeared on the scene. It's a lovely little retail and coffee shop with a focus on local and environmentally friendly products. Well worth the visit.
 
-Watching Limerick's trendy resurgence 10 years after the 2008 ressession has filled us with hope. 2020 has taught us many things and we don't know what the future holds, but I sure hope these folks pull through.
+Watching Limerick's trendy resurgence 10 years after the 2008 recession has filled us with hope. 2020 has taught us many things and we don't know what the future holds, but I sure hope these folks pull through.
 
 <div class="photo-grid columns-4">
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590016010/writing/IMG_5676.jpg" alt="Door with pipe" /></div>
@@ -240,7 +240,7 @@ One of the benefits of changing your base is having the opportunity to explore n
 
 ##### Day Trips
 
-Arguably the biggest benefit of this period in our life was the ability to explore Ireland like a local. We often travelled chasing some running event or hiking route, but managed to cover most of the island and tick off some of the fan favourites, like The Cliffs of Moher, The Wild Atlantice Way, Glendalough, Cobh and a sizeable amount of distilleries.
+Arguably the biggest benefit of this period in our life was the ability to explore Ireland like a local. We often travelled chasing some running event or hiking route, but managed to cover most of the island and tick off some of the fan favourites, like The Cliffs of Moher, The Wild Atlantic Way, Glendalough, Cobh and a sizeable amount of distilleries.
 
 Bere Island, an island off the Beara Peninsula in County Cork, deserves a special mention. Putting the Bere Island landscape and community into words is a challenge, the word _pristine_ comes to mind. You're bound to receive a warm welcome from the locals and the island has a thriving Parkrun community - that's how we found ourselves catching a ferry from Castletown-Berehaven on a windy Saturday morning early in 2020. If you're catching the "Parkrun ferry" the regulars will usher you into a little bus, you might need to help push said bus up a hill, but by the time you get to the Parkrun starting point you'll have had several laughs.
 
@@ -330,13 +330,13 @@ Seriously, an airport!? Yes! My kingdom for that airport.
 
 Our first acquaintance with Shannon Airport was the 2018 Runway Run. A 5-ish km run on the runway at midnight, after the last transatlantic arrival. We only experienced her in all her glory a couple of months later. Have you ever arrived at the airport for a business trip at 6:15 AM and by 6:25 you’re checked-in, through security and busy paying for your coffee?
 
-That’s the beauty of Shannon Airport. It’s an increasingly connected international airport, with really charming staff, charge points a plenty and a sliver of the traffic.
+That’s the beauty of Shannon Airport. It’s an increasingly connected international airport, with really charming staff, charge points a-plenty and a sliver of the traffic.
 
 As the first “special economic zone” (SEZ), the tiny town of Shannon has an interesting economic history, well documented in [this article](https://www.theguardian.com/cities/2016/apr/19/story-of-cities-25-shannon-ireland-china-economic-boom) on how it inspired China's economic boom.
 
 ##### The "pressure is for tires" mentality
 
-The Irish are well known for their friendlyness. After having lived here two years, I can attest to this. They're salt of the earth and seemed to have mastered the concept of tiny acts of kindness.
+The Irish are well known for their friendliness. After having lived here two years, I can attest to this. They're salt of the earth and seemed to have mastered the concept of tiny acts of kindness.
 
 The character trait that fascinated me most is their ability to just ignore problems until everything somehow works out fine. The Irish will "Ah, you're grand!" their way through life and it is a breath of fresh air. There's an underlying resistance to the winds of change on the island and rules can often appear frivolous. As Dermot would say "pressure is for tires!".
 
@@ -346,7 +346,7 @@ The character trait that fascinated me most is their ability to just ignore prob
 
 The list goes on "Fair play to you", "Grand", "Eejit", "See ya later" could be this afternoon, tomorrow or next week and whenever an Irish person hangs up the phone they do so going "bye-bye-bye-bye-bye".
 
-My personal favourit is "Yer man" - yer man could be anybody. _Yer man over there was like that's grand!_
+My personal favourite is "Yer man" - yer man could be anybody. _Yer man over there was like that's grand!_
 
 ##### Deon & Tanya
 
