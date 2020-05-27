@@ -19,7 +19,7 @@ Fast forward two years and I think it’s safe to say we’re smitten. This quir
 
 This weekend, after three months of COVID-inflicted self-isolation and under somewhat different, slightly more surreal circumstances than we had planned, we’ll be leaving Limerick for The Netherlands - with new friends and another home to miss.
 
-Saying goodbye has been bittersweet and we've been doing a fair amount of reflection on our daily dog walks. In the process, I’ve made a list of some of the things I’m going to miss (or remember fondly) about our time in Treaty City.
+Saying goodbye has been bittersweet and we've been doing a fair amount of reflection on our daily dog walks. In the process, I’ve made a list of some of the things I’m going to miss about our time in Treaty City.
 
 ##### The Running Community
 
