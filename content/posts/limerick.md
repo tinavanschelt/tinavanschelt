@@ -53,7 +53,7 @@ Somewhere in the first week I got stuck under the barbell (_just_ the barbell) w
 Fair play to you, Noel. I’m so bleak I didn’t get to say goodbye, but I’ll be back for more. Don’t let it beat you 🙂
 
 <div class="photo-grid columns-3">
-  <div style="grid-column: span 2;"><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1589924666/writing/functional-fitness.jpg" alt="Functional Fitness" /></div>
+  <div style="grid-column: span 2;"><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1589924666/writing/functional-fitness.jpg" style="height: 100%;" alt="Functional Fitness" /></div>
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1589924422/writing/whiteboard.jpg" alt="Functional Fitness" /></div>
 </div>
 
@@ -124,8 +124,8 @@ and it's worth the watch / listen if you enjoy musicals.
 UL has a really lovely campus, living near the University meant that we could avail several of the campus amenities, like the athletics track and tennis courts. We would often meetup with running folks at UL and enjoyed running out to UL beach or stroll around the campus on weekends.
 
 <div class="photo-grid columns-4">
-  <div style="grid-column: span 3; height: 212px;"><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590602166/writing/IMG_5633.jpg" alt="Millenium Bridge" /></div>
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590307597/writing/walks.jpg" alt="Riverbank" /></div>
+  <div style="grid-column: span 3; height: 212px;"><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590602166/writing/IMG_5633.jpg" alt="Millenium Bridge" /></div>
 </div>
 
 ##### Elevate Community Church
