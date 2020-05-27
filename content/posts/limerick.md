@@ -283,7 +283,7 @@ When it comes to Ireland, people are quick to tell you about the rain, but (and 
 
 ##### Irish rain
 
-There’s something different about the rain here. A lighter, almost natural rain that seems to blend in. You’ll be walking in town, it’ll start raining and the people around you will either pull out an umbrella from _somewhere_ and carry on as they were or wait it out.
+There’s something different about the rain here. A lighter, almost natural rain that seemingly blends in. You’ll be walking in town, it’ll start raining and the people around you will either pull out an umbrella from _somewhere_ and carry on as they were or wait it out.
 
 <div class="photo-grid columns-4">
   <div style="grid-column: span 2;"><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590346663/writing/shannon.jpg" alt="River Shannon" /></div>
