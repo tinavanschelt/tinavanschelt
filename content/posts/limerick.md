@@ -394,9 +394,9 @@ There's no doubt that our time in Limerick could have unfolded completely differ
 
 > Nestled comfortably between Athlunkard Street and the Sandmall lies a quaint old street, Keeper View Terrace. Over 100 years old, it was named so because it provided a perfect view of Keeper Hill"
 
-For those interested, the history of The Keeper View Terraces are well documented in [this newspaper clipping](http://www.limerickcity.ie/media/streets330.pdf) from 1999. It's a lovely community, that welcomed us with open arms. If you pass during the day, you'll often see a neighbour collecting bins or sweeping the sidewalk on behalf of another and on Christmas Eve you'll find the entire street bundled into Cowies.
+For those interested, the history of the Keeper View Terraces are well documented in [this newspaper clipping](http://www.limerickcity.ie/media/streets330.pdf) from 1999. It's a lovely community, that welcomed us with open arms. If you pass during the day, you'll often see a neighbour collecting bins or sweeping the sidewalk on behalf of another and on Christmas Eve you'll find the entire street bundled into Cowies.
 
-To us, The Keeper View Terraces represented a period of growth and belonging and we'll remember it with an abundance of grattitude.
+To us, the Keeper View Terraces represented a period of growth and belonging and we'll remember it with an abundance of grattitude.
 
 <div class="photo-grid columns-4">
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590164728/writing/IMG_20200320_185509.jpg" alt="Keeper View Sunset" /></div>
