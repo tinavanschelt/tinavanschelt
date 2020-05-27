@@ -4260,6 +4260,13 @@ gray-matter@^4.0.2:
     section-matter "^1.0.0"
     strip-bom-string "^1.0.0"
 
+gridsome-plugin-remark-youtube@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gridsome-plugin-remark-youtube/-/gridsome-plugin-remark-youtube-1.0.1.tgz#f76f213b3568b818b0735497db5432f43e8eb0e6"
+  integrity sha512-HeJ3vrlLFTJrb23DAYU1sApHP2AHrmsm6cWOUIoA+MN9ahBM57lecpttQOBdghzDEqQ30+/iuHhXeGuPGmkUaQ==
+  dependencies:
+    unist-util-visit "^1.4.0"
+
 gridsome@^0.7.0:
   version "0.7.14"
   resolved "https://registry.yarnpkg.com/gridsome/-/gridsome-0.7.14.tgz#d919f62bd9f0a500ded4599e70b63cb09cfa68ad"
