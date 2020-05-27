@@ -396,7 +396,7 @@ There's no doubt that our time in Limerick could have unfolded completely differ
 
 For those interested, the history of The Keeper View Terraces are well documented in [this newspaper clipping](http://www.limerickcity.ie/media/streets330.pdf) from 1999. It's a lovely community, that welcomed us with open arms. If you pass during the day, you'll often see a neighbour collecting bins or sweeping the sidewalk on behalf of another and on Christmas Eve you'll find the entire street bundled into Cowies.
 
-To us, The Keeper View Terraces represented a period of growth and belonging and we'll remember it fondly.
+To us, The Keeper View Terraces represented a period of growth and belonging and we'll remember it with an abundance of grattitude.
 
 <div class="photo-grid columns-4">
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590164728/writing/IMG_20200320_185509.jpg" alt="Keeper View Sunset" /></div>
@@ -405,6 +405,6 @@ To us, The Keeper View Terraces represented a period of growth and belonging and
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590277287/writing/keeper-braai.jpg" alt="Nobody get's left behind" /></div>
 </div>
 
-Limerick, you’re a lady and we'll remember you with an abundance of grattitude. Yous left some feckin’ large shoes to fill.
+Limerick, you’re a lady and yous left some feckin’ large shoes to fill.
 
 Bye-bye-bye-bye-bye, see ya later.
