@@ -162,7 +162,7 @@ Watching Limerick's trendy resurgence 10 years after the 2008 recession has fill
 
 ##### Bella Italia
 
-I can't tell you what it is about this place, but it looks, tastes and feels like home. We would drop by after a long week and it always served the best date nights with this trooper.
+I can't tell you what it is about this place, but it looks, tastes and feels like home. We would drop by after a long week and it always served the best date nights.
 
 <div class="photo-grid columns-4">
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590015450/writing/IMG_7083.jpg" alt="The Cranberries" /></div>
