@@ -57,7 +57,7 @@ Fair play to you, Noel. I’m so bleak I didn’t get to say goodbye, but I’ll
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1589924422/writing/whiteboard.jpg" alt="Functional Fitness" /></div>
 </div>
 
-##### Daily Walks with Wilco
+##### Daily walks with Wilco
 
 Back in Observatory, we would visit the dog park with Wilco every day - something we really missed when we just arrived in Limerick. Though we never really replaced the social aspect of the dog park, we did discover an array of beautiful walks - all within stones' throw.
 
@@ -78,7 +78,7 @@ Ireland is essentially one big farm and Wilco didn't waste any time before he st
     <img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590307597/writing/walkies.jpg" alt="The Cranberries" />
   </div>
   <div class="span-3">
-    <img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590353807/writing/kings-island.jpg" alt="The Cranberries" style="height: 100%; width: auto;" />
+    <img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590353807/writing/kings-island.jpg" alt="The Cranberries" />
   </div>
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590354323/writing/IMG_3342.jpg" alt="Door with pipe" /></div>
 </div>
@@ -89,7 +89,7 @@ Limerick might not have a mountain, but she's got one mighty river, the longest 
 
 If you pass late at night and it's low-tide, she roars like an ocean. I'm going to miss it.
 
-We were incredibly lucky and got to see [Angela's Ashes](https://www.youtube.com/watch?v=zRLcG8krCSw) at the Limetree Theatre in Limerick during our time here. There's a song, [Sing River Shannon](https://www.youtube.com/watch?v=iolEw7ZdXQc), in the musical
+We were incredibly lucky and got to see [Angela's Ashes](https://www.youtube.com/watch?v=zRLcG8krCSw) at the Lime Tree Theatre in Limerick during our time here. There's a song, [Sing River Shannon](https://www.youtube.com/watch?v=iolEw7ZdXQc), in the musical
 
 > Sing River Shannon, wash away old tears </br>
 > Relive the years and the memories
@@ -124,13 +124,14 @@ and it's worth the watch / listen if you enjoy musicals.
 UL has a really lovely campus, living near the University meant that we could avail several of the campus amenities, like the athletics track and tennis courts. We would often meetup with running folks at UL and enjoyed running out to UL beach or stroll around the campus on weekends.
 
 <div class="photo-grid columns-4">
+<div class="span-3">
+  <img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590602166/writing/IMG_5633.jpg" alt="Millenium Bridge" /></div>
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590307597/writing/walks.jpg" alt="Riverbank" /></div>
-  <div style="grid-column: span 3; height: 212px;"><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590602166/writing/IMG_5633.jpg" alt="Millenium Bridge" /></div>
 </div>
 
 ##### Elevate Community Church
 
-The most eccentric, welcoming and supporting bunch of people I have ever met in my life, but we love them all the more for it! At Elevate, you come as you are. The crew understand that being a church is much more important than going to church and, more importantly, they live it.
+The most eccentric, welcoming and supporting bunch of people I have ever met in my life and we love them all the more for it! At Elevate, you come as you are. The crew understand that being a church is much more important than going to church and, more importantly, they live it.
 
 ##### The Milk Market
 
@@ -146,7 +147,7 @@ If you're ever lucky enough to find yourself here on a Saturday morning, be sure
 
 Shortly after Kevin arrived in Limerick, Rift, a speciality coffee shop and wine bar, opened their doors. It didn't take us long to get to know Dalton. Dalton's the kind of guy who will remember the wine you had six months ago and make a recommendation based on it, a stellar one at that. Watching Rift grow from strength to strength has been delightful and we look forward to coming back to give their new venture, Rift's Larder, a visit. Until then, we'll be contently sipping coffee from our Rift Tapio coffee cups.
 
-Not long after, Green Onion Café opened their doors 450m from our house. Providing a really nice atmosphere to work from on the days I felt like a change of scenery and serving, not just great coffee, but a really yummy whole wheat vegan date scone, caramalised banana and cashew butter.
+Not long after, Green Onion Café opened their doors 450m from our house. Providing a really nice atmosphere to work from on the days I felt like a change of scenery and serving, not just great coffee, but a really yummy whole wheat vegan date scone, with caramalised banana and cashew butter.
 
 About a year into our stay, DUO appeared on the scene. It's a lovely little retail and coffee shop with a focus on local and environmentally friendly products. Well worth the visit.
 
@@ -161,7 +162,7 @@ Watching Limerick's trendy resurgence 10 years after the 2008 recession has fill
 
 ##### Bella Italia
 
-I can't tell you what it is about this place, but it looks, tastes and feels like home. We would drop by after a long week and it always served the best date nights.
+I can't tell you what it is about this place, but it looks, tastes and feels like home. We would drop by after a long week and it always served the best date nights with this trooper.
 
 <div class="photo-grid columns-4">
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590015450/writing/IMG_7083.jpg" alt="The Cranberries" /></div>
@@ -183,7 +184,7 @@ The week leading up to the Dublin marathon, I was a nervous wreck. By Friday eve
 
 ##### Parks
 
-There are a number of parks in the city, but our favourite was Curraghchase Forest Park - located 20km from the city. A 774-acre estate bought by the State in 1957. My favourite part of the park is a gravestone listing all of the horses, dogs and cats that lived on the estate stating "None of them is forgotten before God."
+There are a number of parks in the city, but our favourite was 20km out. Curraghchase Forest Park is a 774-acre estate bought by the State in 1957. My favourite part of the park is a gravestone listing all of the horses, dogs and cats that lived on the estate stating "None of them is forgotten before God."
 
 Wilco seemed to enjoy the photo op.
 
@@ -194,7 +195,7 @@ Wilco seemed to enjoy the photo op.
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590165893/writing/IMG_5098.jpg" alt="Cratloe Lake" /></div>
 </div>
 
-They have a yearly 10km race through the park that's quite popular.
+They have an annual 10km race through the park that's quite popular.
 
 ##### Cratloe Forest
 
@@ -234,7 +235,7 @@ An experience worth highlighting would definitely be the three days we spent wit
 
 ##### Traveling
 
-One of the benefits of changing your base is having the opportunity to explore new places or places you wouldn't have otherwise. In South Africa we were covering ~2 new countries every ~2 years and each trip started with a costly plane ticket. The past two years we've been averaging ~7 countries a year, by capitalising on opportunities (like going to Wales\* for a long weekend or joining a group running trip to Sweden) and prioritising travel in our budget.
+One of the benefits of changing your homebase is having the opportunity to explore new places or places you wouldn't have otherwise. In South Africa we were covering ~2 new countries every ~2 years and each trip started with a costly plane ticket. The past two years we've been averaging ~7 countries a year, by capitalising on opportunities (like going to Wales\* for a long weekend or joining a group running trip to Sweden) and prioritising travel in our budget.
 
 \*Wales was one of our favourite trips, a gift that kept on giving and a good example of something we probably wouldn't have experienced if it weren't for Ryanair and the fact that we lived on The Isles.
 
@@ -311,7 +312,7 @@ Supposedly the fastest game on grass and arguably the greatest game on earth. Wh
 
 `youtube:https://www.youtube.com/embed/I1Vw66Zs0dQ`
 
-We were lucky enough to see Limerick win, in a nail biter of a game, the 2018 All Ireland Championship and bring Liam home for the first time since 1973.
+We were lucky enough to see Limerick win the 2018 All Ireland Championship, in a nail biter of a game, and bring Liam home for the first time since 1973.
 
 <div class="photo-grid columns-4">
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590263406/writing/hurling_croke.jpg" alt="Hurling" /></div>
@@ -344,7 +345,7 @@ The character trait that fascinated me most is their ability to just ignore prob
 
 "How was the craic?" In Ireland "the craic" is used for an array of things, news, gossip, a night out. Everything is the craic and there are different [kinds of craic](https://www.irishcentral.com/culture/craic/irish-craic-explained-the-top-six-levels-of-craic-you-can-reach) too.
 
-The list goes on "Fair play to you", "Grand", "Eejit", "See ya later" could be this afternoon, tomorrow or next week and whenever an Irish person hangs up the phone they do so going "bye-bye-bye-bye-bye".
+The list goes on "Fair play to you", "Grand", "Eejit". "See ya later" could be this afternoon, tomorrow or next week and whenever an Irish person hangs up the phone they do so going "bye-bye-bye-bye-bye".
 
 My personal favourite is "Yer man" - yer man could be anybody. _Yer man over there was like that's grand!_
 
@@ -395,7 +396,7 @@ There's no doubt that our time in Limerick could have unfolded completely differ
 
 For those interested, the history of The Keeper View Terraces are well documented in [this newspaper clipping](http://www.limerickcity.ie/media/streets330.pdf) from 1999. It's a lovely community, that welcomed us with open arms. If you pass during the day, you'll often see a neighbour collecting bins or sweeping the sidewalk on behalf of another and on Christmas Eve you'll find the entire street bundled into Cowies.
 
-To us, The Keeper View Terraces represented a period of growth and belonging and we'll remember them fondly.
+To us, The Keeper View Terraces represented a period of growth and belonging and we'll remember it fondly.
 
 <div class="photo-grid columns-4">
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590164728/writing/IMG_20200320_185509.jpg" alt="Keeper View Sunset" /></div>
@@ -404,6 +405,6 @@ To us, The Keeper View Terraces represented a period of growth and belonging and
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590277287/writing/keeper-braai.jpg" alt="Nobody get's left behind" /></div>
 </div>
 
-Limerick, you’re a lady and yous left some feckin’ big shoes to fill.
+Limerick, you’re a lady and we'll remember you with an abundance of grattitude. Yous left some feckin’ large shoes to fill.
 
 Bye-bye-bye-bye-bye, see ya later.

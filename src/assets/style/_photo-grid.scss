@@ -48,10 +48,10 @@
 
             &.span-3 {
                 grid-column: span 2;
-                height: 212px;
 
                 @media screen and (min-width: 600px) {
                     grid-column: span 3;
+                    height: 212px;
                 }
             }
 
