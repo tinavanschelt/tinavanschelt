@@ -151,7 +151,7 @@ Not long after, Green Onion Café opened their doors 450m from our house. Provid
 
 About a year into our stay, DUO appeared on the scene. It's a lovely little retail and coffee shop with a focus on local and environmentally friendly products. Well worth the visit.
 
-Watching Limerick's trendy resurgence 10 years after the 2008 recession has filled us with hope. 2020 has taught us many things and we don't know what the future holds, but I sure hope these folks pull through.
+Watching Limerick's trendy resurgence 10 years after the 2008 recession filled us with hope. 2020 has taught us many things and we don't know what the future holds, but I sure hope these folks pull through.
 
 <div class="photo-grid columns-4">
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590016010/writing/IMG_5676.jpg" alt="Door with pipe" /></div>
