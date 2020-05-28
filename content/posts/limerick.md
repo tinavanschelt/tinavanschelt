@@ -61,7 +61,7 @@ Fair play to you, Noel. I’m so bleak I didn’t get to say goodbye, but I’ll
 
 Back in Observatory, we would visit the dog park with Wilco every day - something we really missed when we just arrived in Limerick. Though we never really replaced the social aspect of the dog park, we did discover an array of beautiful walks - all within stones' throw.
 
-We loved walking The Three Bridges and along the riverbank to the University of Limerick, when Wilco needed extra stimulation, we would turn early and head back through Shannon Fields, tackle the Corbally Red Path and take the connecting trail or head round Kings Island. We were still discovering new paths and detours by chance during our last month.
+We loved walking The Three Bridges and along the riverbank to the University of Limerick, when Wilco needed extra stimulation, we would turn early and head back through Shannon Fields, tackle the Corbally Red Path and take the connecting trail or head round Kings Island. We're _still_ discovering new paths and detours by chance.
 
 Ireland is essentially one big farm and Wilco didn't waste any time before he started living his best farm life.
 
