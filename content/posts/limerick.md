@@ -131,7 +131,7 @@ UL has a really lovely campus, living near the University meant that we could av
 
 ##### Elevate Community Church
 
-The most eccentric, welcoming and supporting bunch of people I have ever met in my life and we love them all the more for it! At Elevate, you come as you are. The crew understand that being a church is much more important than going to church and, more importantly, they live it.
+The most eccentric, welcoming and supportive bunch of people I have ever met in my life and we love them all the more for it! At Elevate, you come as you are. The crew understand that being a church is much more important than going to church and, more importantly, they live it.
 
 ##### The Milk Market
 
