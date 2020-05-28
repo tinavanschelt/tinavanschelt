@@ -173,7 +173,7 @@ I can't tell you what it is about this place, but it looks, tastes and feels lik
 
 ##### Japanese Restaurants
 
-The week leading up to the Dublin marathon, I was a nervous wreck. By Friday evening, Kevin decided something had to be done and took me to Kyoto. A cosy little Japanese Restaurant next to The Locke - that's the story of how we discovered that Limerick has _really good_ Japanese cuisine. Both Kyoto and Taikichi are brilliant options for traditional Japanese cuisine.
+The week leading up to the Dublin marathon, I was a nervous wreck. By Friday evening, Kevin decided something had to be done and took me to Kyoto. A cosy little Japanese Restaurant next to The Locke - that's the story of how we discovered that Limerick has _really good_ Japanese food. Both Kyoto and Taikichi are brilliant options for traditional Japanese cuisine.
 
 <div class="photo-grid columns-4">
   <div><img src="https://res.cloudinary.com/tinavanschelt/image/upload/v1590589887/IMG_20200526_191340.jpg" alt="Kyoto" /></div>
@@ -359,7 +359,7 @@ Ben Rector has a song called Old Friends. It goes
 
 I’m so grateful that we got to share this experience with old friends.
 
-All of it. Charcoal braais, laughing over shitty imported wine, going for a pint at our local, impromptu _kuiers_ and on the days you're longing for that city at the Southern tip of Africa, being able to talk about _this thing_ you're carrying and having somebody knowing exactly what that load is like, because they carry it too.
+All of it. Charcoal braais, laughing over shitty imported wine, going for a pint at our local, impromptu _kuiers_ and on the days you're longing for that city at the southern tip of Africa, being able to talk about _this thing_ you're carrying and having somebody knowing exactly what that load is like, because they carry it too.
 
 They're a stand-up couple and we're going to miss them like crazy.
 
