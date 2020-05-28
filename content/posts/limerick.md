@@ -345,7 +345,7 @@ The character trait that fascinated me most is their ability to just ignore prob
 
 "How was the craic?" In Ireland "the craic" is used for an array of things, news, gossip, a night out. Everything is the craic and there are different [kinds of craic](https://www.irishcentral.com/culture/craic/irish-craic-explained-the-top-six-levels-of-craic-you-can-reach) too.
 
-The list goes on "Fair play to you", "Grand", "Eejit". "See ya later" could be this afternoon, tomorrow or next week and whenever an Irish person hangs up the phone they do so going "bye-bye-bye-bye-bye".
+The list goes on "Fair play to you", "Grand", "Eejit". "See ye later" could be this afternoon, tomorrow or next week and whenever an Irish person hangs up the phone they do so going "bye-bye-bye-bye-bye".
 
 My personal favourite is "Yer man" - yer man could be anybody. _Yer man over there was like that's grand!_
 
@@ -407,4 +407,4 @@ To us, the Keeper View Terraces represented a period of growth and belonging and
 
 Limerick, you’re a lady and yous left some feckin’ large shoes to fill.
 
-Bye-bye-bye-bye-bye, see ya later.
+Bye-bye-bye-bye-bye, see ye later.
