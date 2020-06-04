@@ -11,7 +11,7 @@ description: ''
 
 I’m a Capetonian. Born and raised.
 
-Ever since we met, my husband wanted me to get out of Cape Town and experience something other than city life for a bit. After 3 years on Kloof Street, 1 in Vredehoek and 2 in Greenpoint, my husband and I settled (or so we thought) in Observatory, Cape Town’s bohemian suburb. Two years later, we signed a two year contract in Limerick (🇮🇪) and with that, Kevin’s wish was realised. Limerick might be Ireland’s third largest city economy-wise, but in South African terms it feels more like a large town.
+Ever since we met, my husband wanted me to get out of Cape Town and experience something other than city life for a bit. After three years on Kloof Street, one in Vredehoek and two in Greenpoint, my husband and I settled (or so we thought) in Observatory, Cape Town’s bohemian suburb. Two years later, we signed a two year contract in Limerick (🇮🇪) and with that, Kevin’s wish was realised. Limerick might be Ireland’s third largest city economy-wise, but in South African terms it feels more like a large town.
 
 When we first moved here, there were two unexpected adjustments. The first was the lightness of living without the weight of South Africa’s disturbingly high crime rate and the second, the lack of mountains. Having spent most of my life in the shadow of Table Mountain or Simonsberg or at the very least having the Hottentots Holland Mountains in the distance, Limerick made Tygerberg look like Kilimanjaro. It was an unexpected challenge, this silly city without a mountain.
 
