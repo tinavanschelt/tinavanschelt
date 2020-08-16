@@ -17,7 +17,7 @@
             Working
             <a href="http://weareleaf.com" target="_blank">@weareleaf</a> 👩🏼‍💻🍃
           </li>
-          <li>Studying towards a BSc (Hons) in Computing through the University of Derby 👩🏼‍🎓</li>
+          <li>Studying towards a BSc (Hons) in Computing 👩🏼‍🎓</li>
         </ul>
         <h4>What I'm currently focused on</h4>
         <h5>Personal</h5>
@@ -57,9 +57,7 @@
         </ul>
         <h4>What I'm looking forward</h4>
         <ul>
-          <li>
-            <del>Settling in the Netherlands and experiencing Dutch culture firsthand.</del>
-          </li>
+          <li>Settling in the Netherlands and experiencing Dutch culture firsthand.</li>
         </ul>
         <p>
           <small>
