@@ -7,7 +7,7 @@
 module.exports = {
     siteName: 'Tina van Schelt',
     siteDescription:
-        "I'm Tina, a product-focused software developer based in Cape Town Ireland.",
+        "I'm Tina, a product-focused software developer based in The Netherlands.",
 
     templates: {
         Post: '/:title',
