@@ -12,12 +12,12 @@
         </blockquote>
         <br />
         <ul>
-          <li>Living in Limerick 🇮🇪🐑🍻</li>
+          <li>Living in The Netherlands 🇳🇱🍻🧀</li>
           <li>
             Working
             <a href="http://weareleaf.com" target="_blank">@weareleaf</a> 👩🏼‍💻🍃
           </li>
-          <li>Studying towards a BSc (Hons) in Computing and Information Technologies through the University of Derby</li>
+          <li>Studying towards a BSc (Hons) in Computing through the University of Derby 👩🏼‍🎓</li>
         </ul>
         <h4>What I'm currently focused on</h4>
         <h5>Personal</h5>
@@ -32,15 +32,17 @@
         </ul>
         <h5>Learning</h5>
         <p>Studying managed to takeover this part of my life, but I’m still focusing on reading classic (and some not-so-classic) programming books, currently:</p>
-        <ul>
-          <li>
-            Working my way through
-            <a
-              href="https://www.oreilly.com/library/view/head-first-design/0596007124/"
-              target="_blank"
-            >Head First Design Patterns</a>
-          </li>
-        </ul>
+        <p>
+          <ul>
+            <li>
+              Working my way through
+              <a
+                href="https://www.oreilly.com/library/view/head-first-design/0596007124/"
+                target="_blank"
+              >Head First Design Patterns</a>
+            </li>
+          </ul>
+        </p>
         <p>
           Thoughts on
           <a href="/stash/a-learning-culture/">lifelong learning</a>
@@ -56,23 +58,12 @@
         <h4>What I'm looking forward</h4>
         <ul>
           <li>
-            <del>Visiting Cuba and Mexico</del> (+ celebrating 5 years of married life 🍾)
-          </li>
-          <li>
-            <del>
-              Training for the Connemara Marathon (April 2020)
-              <del></del>
-            </del>
-          </li>
-          <li>Turning 30 🤞🏼</li>
-          <li>
-            <del>Moving to Amsterdam 🇳🇱</del>
+            <del>Settling in the Netherlands and experiencing Dutch culture firsthand.</del>
           </li>
         </ul>
-        <p>Humbly learning to be less of a compulsive planner (and that the only inevitable is aging?). Thanks, COVID ✌🏼</p>
         <p>
           <small>
-            Last update: 19/03/2020
+            Last update: 16/08/2020
             <br />This page is part of the
             <a href="https://sivers.org/nowff">“The /now page movement”</a>
           </small>
