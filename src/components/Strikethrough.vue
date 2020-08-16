@@ -1,6 +1,6 @@
 <template>
   <span class="strikethrough-text" v-if="text.length < 9">
-    <div class="strikethrough">
+    <span class="strikethrough">
       <svg
         width="51px"
         height="18px"
@@ -23,11 +23,11 @@
           />
         </g>
       </svg>
-    </div>
+    </span>
     {{ text }}
   </span>
   <span class="strikethrough-text" v-else>
-    <div class="strikethrough">
+    <span class="strikethrough">
       <svg
         width="75px"
         height="18px"
@@ -50,7 +50,7 @@
           />
         </g>
       </svg>
-    </div>
+    </span>
     {{ text }}
   </span>
 </template>
