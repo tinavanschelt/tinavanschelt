@@ -15,7 +15,8 @@
 
     <p>
       I'm Tina, a product-focused software developer based in
-      <del>Cape Town</del> Ireland.
+      <Strikethrough text="Cape Town" />
+      <Strikethrough text="Ireland" />The Netherlands.
     </p>
 
     <div v-if="showBio">
@@ -58,8 +59,13 @@ query {
 </static-query>
 
 <script>
+import Strikethrough from "~/components/Strikethrough.vue";
+
 export default {
-  props: ["showTitle", "showBio"]
+  props: ["showTitle", "showBio"],
+  components: {
+    Strikethrough
+  }
 };
 </script>
 
