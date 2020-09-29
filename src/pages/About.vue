@@ -7,7 +7,7 @@
     <div class="posts content">
       <PageTitle title="about" />
       <div class="post-card content-box">
-        <p>Throughout my career I’ve often found myself working at the intersection of multiple disciplines within the digital ecosystem, including software engineering, analytics, product management and user experience. Combined with a keen interest in human behaviour and business processes, this has enabled me to build a diverse skill set and a thorough understanding of the ecosystem as a whole.</p>
+        <p>Though the primary focus of my career has been software development, I’ve often found myself working at the intersection of multiple disciplines within the digital ecosystem, including product and project management, user experience, analytics and strategic leadership. Combined with a keen interest in human behaviour and business processes, this has enabled me to build a diverse skillset and a thorough understanding of the ecosystem as a whole.</p>
 
         <p>
           I believe in
@@ -17,7 +17,7 @@
           >continuous learning</a>, embrace new challenges as growth opportunities and always strive to surround myself with people who are smarter than me.
         </p>
 
-        <p>Outside of work, I enjoy exploring, running, functional training, spending time outdoors and hiking with our dog, Wilco. I completed my first marathon in 2019 and am an avid member of the Parkrun community.</p>
+        <p>Outside of work, I enjoy exploring new countries and cultures, spending time outdoors and hiking with our dog, Wilco. Functional training and running keeps me centered. I completed my first marathon in 2019 and am an avid member of the Parkrun community.</p>
 
         <h5>Timeline 👇🏼</h5>
         <p>
