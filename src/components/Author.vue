@@ -26,7 +26,7 @@
         and, partly due to a keen interest in people and process, I
         always strive to surround myself with
         <a
-          href="http://www.weareleaf.com"
+          href="http://www.cleverfranke.com"
           target="_blank"
         >people who are smarter than me</a>.
       </p>
