@@ -14,8 +14,7 @@
         <ul>
           <li>Living in The Netherlands 🇳🇱🍻🧀</li>
           <li>
-            Working
-            <a href="http://weareleaf.com" target="_blank">@weareleaf</a> 👩🏼‍💻🍃
+            Working at <a href="https://www.cleverfranke.com/" target="_blank">CLEVERºFRANKE</a> 👩🏼‍💻
           </li>
           <li>Studying towards a BSc (Hons) in Computing 👩🏼‍🎓</li>
         </ul>
