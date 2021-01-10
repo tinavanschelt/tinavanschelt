@@ -16,7 +16,7 @@
           <li>
             Working at <a href="https://www.cleverfranke.com/" target="_blank">CLEVERºFRANKE</a> 👩🏼‍💻
           </li>
-          <li>Studying towards a BSc (Hons) in Computing 👩🏼‍🎓</li>
+          <li>Wrapping up a BSc (Hons) in Computing 👩🏼‍🎓</li>
         </ul>
         <h4>What I'm currently focused on</h4>
         <h5>Personal</h5>
@@ -48,19 +48,16 @@
         </p>
         <h5>Health</h5>
         <ul>
-          <li>Getting stronger (again)</li>
-          <li>
-            <del>Running 5km in 24 minutes</del> ✔️ (23:58)
-          </li>
-          <li>Running a sub 4 hour marathon</li>
+          <li>Getting back to pre-pandemic fitness. Aiming for 3 x strength and 3 x running sessions (min 20 km) every week</li>
         </ul>
         <h4>What I'm looking forward</h4>
         <ul>
-          <li>Settling in the Netherlands and experiencing Dutch culture firsthand.</li>
+          <li>Settling in the Netherlands and experiencing Dutch culture firsthand</li>
+          <li>Seeing friends and family again later this year 🤞🏼</li>
         </ul>
         <p>
           <small>
-            Last update: 16/08/2020
+            Last update: 10/01/2020
             <br />This page is part of the
             <a href="https://sivers.org/nowff">“The /now page movement”</a>
           </small>
