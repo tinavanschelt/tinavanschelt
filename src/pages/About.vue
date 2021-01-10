@@ -26,6 +26,18 @@
         </p>
       </div>
     </div>
+    
+    <div class="posts content">
+      <div class="posts__title posts__title--year">2020</div>
+      <div class="post-card content-box">
+        <ul>
+          <li>Somehow managed to move from Ireland to the Netherlands amidst a global pandemic</li>
+          <li>Joined the incredibly talented team at CLEVERºFRANKE and pivoted back to frontend development</li>
+          <li>Not a great year for traveling or running, but we went on several glamping trips throughout the Netherlands and ran a couple of PRs pre-pandemic</li>
+          <li>Got my first mechanical keyboard - believe the hype</li>
+        </ul>
+      </div>
+    </div>
 
     <div class="posts content">
       <div class="posts__title posts__title--year">2019</div>
