@@ -28,6 +28,18 @@
     </div>
     
     <div class="posts content">
+      <div class="posts__title posts__title--year">2021</div>
+      <div class="post-card content-box">
+        <ul>
+          <li>Moved to the Zaanstad area and, for the first time in a long time, into our own place</li>
+          <li>Completed my dissertation (Utilising modern, browser-based machine learning technologies for data-driven cognitive accessibility research) and graduated my BSc (Hons) Computing degree with a First Class Honours</li>
+          <li>Proudly became newborn parents as we welcomed Ario, a beautiful little boy, into the world</li>
+          <li>Travelled home for (like many other expats) the first time in over two years</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="posts content">
       <div class="posts__title posts__title--year">2020</div>
       <div class="post-card content-box">
         <ul>
